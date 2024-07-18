@@ -5,11 +5,11 @@ import Navbar from './components/Navbar'
 
 const App = () => {
   return (
-    <Stack>
+    <div>
   <Navbar/>
 
 
-    </Stack>
+    </div>
   )
 }
 

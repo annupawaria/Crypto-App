@@ -4,13 +4,13 @@ import {Stack} from "@mui/material"
 
 const Navbar = () => {
   return (
-    <Stack>
-      <img src={cryptocurrency.png} alt="crypto"/>
+    <div style={{height:"440px", width:"550px",backgroundColor:"none"}}>
+      <img src={cryptocurrency} alt="crypto"/>
 
 
 
 
-    </Stack>
+    </div>
   )
 }
 
